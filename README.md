@@ -39,16 +39,3 @@
 
 
 - Notes are inserted to MIDI files on a real-valued time instead of discrete musical lengths, so make sure to quantize it on any sequencer (e.g. GarageBand). 1/16 is recommended. 
-
-- Check our [demos](https://soundcloud.com/iclr2018eval)
-
-## Citation
-`@article{andrew2017neuralmelody,
-    author={Andrew Shin, Leopold Crestel, Hiroharu Kato, Kuniaki Saito, Katsunori Ohnishi, Masataka Yamaguchi, Masahiro Nakawaki, Yoshitaka Ushiku, Tatsuya Harada},
-    title={Melody Generation for Pop Music via Word Representation of Musical Properties},
-    journal={arXiv preprint arXiv:1710.11549},
-    year={2017}
-}`
-
-## License
-BSD license.
