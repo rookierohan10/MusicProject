@@ -6,7 +6,6 @@
 
 - The **output** is a MIDI file with generated melody converted from generated strings. Generated strings are currently in the form of **pitch;pos;duration**.
 
--  This repository is a modification of [NeuralTalk](https://github.com/karpathy/neuraltalk).
 
 
 ## Dependencies
